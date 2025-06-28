@@ -27,9 +27,9 @@ public class ShapeSpawner : MonoBehaviour
     private void SpawnShape()
     {
         Vector3 randomPosition = new Vector3(
-            Random.Range(-10f, 10f),
+            Random.Range(-20f, 20f),
             2f, 
-            Random.Range(-10f, 10f)
+            Random.Range(-20f, 20f)
         );
 
         // only spawn shapes up to current level

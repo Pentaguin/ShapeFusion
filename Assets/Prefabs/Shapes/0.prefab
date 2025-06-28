@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 6861558768541009469}
   - component: {fileID: 4505086730178121415}
   - component: {fileID: 865299342333918713}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: 0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -97,7 +97,7 @@ SphereCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 9134481260870554869}
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 13400000, guid: 11f37f4138d4d4f4ab7449345a81fa8f, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
